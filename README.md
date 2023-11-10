@@ -2,6 +2,8 @@
 ## Book Connect 
 
 This library application caters to book enthusiasts, offering users previews of a diverse range of books. Additionally, it provides the flexibility to customize the interface mode, allowing users to choose between light and dark themes for enhanced comfort. The application further facilitates efficient book discovery through a search feature, enabling users to explore books based on genre, author, and title.
+
+
 **Link of the App presentation:** https://www.canva.com/design/DAFzxEqpC_M/08FmxEocD3TvjSsryUzwSw/edit?utm_content=DAFzxEqpC_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Features
